@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Sajjad</h1>
-<h3 align="center">A passionate student on the path to learn frontend developing from Pakistan</h3>
+<h3 align="center">A passionate student from Pakistan, exploring web development and UI design while on a journey to discover my true interests in tech.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
